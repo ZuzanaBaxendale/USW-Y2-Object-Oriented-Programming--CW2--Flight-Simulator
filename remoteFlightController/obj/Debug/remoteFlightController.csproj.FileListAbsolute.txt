@@ -1,0 +1,20 @@
+F:\Event Driven Coursework 2\remoteFlightController\remoteFlightController\obj\Debug\remoteFlightController.csprojAssemblyReference.cache
+F:\Event Driven Coursework 2\remoteFlightController\remoteFlightController\obj\Debug\remoteFlightController.frmFlightController.resources
+F:\Event Driven Coursework 2\remoteFlightController\remoteFlightController\obj\Debug\remoteFlightController.Properties.Resources.resources
+F:\Event Driven Coursework 2\remoteFlightController\remoteFlightController\obj\Debug\remoteFlightController.csproj.GenerateResource.cache
+F:\Event Driven Coursework 2\remoteFlightController\remoteFlightController\obj\Debug\remoteFlightController.csproj.CoreCompileInputs.cache
+F:\Event Driven Coursework 2\remoteFlightController\remoteFlightController\bin\Debug\remoteFlightController.exe.config
+F:\Event Driven Coursework 2\remoteFlightController\remoteFlightController\bin\Debug\remoteFlightController.exe
+F:\Event Driven Coursework 2\remoteFlightController\remoteFlightController\bin\Debug\remoteFlightController.pdb
+F:\Event Driven Coursework 2\remoteFlightController\remoteFlightController\obj\Debug\remoteFlightController.exe
+F:\Event Driven Coursework 2\remoteFlightController\remoteFlightController\obj\Debug\remoteFlightController.pdb
+C:\Users\Zuza\Desktop\remoteFlightController\remoteFlightController\bin\Debug\remoteFlightController.exe.config
+C:\Users\Zuza\Desktop\remoteFlightController\remoteFlightController\bin\Debug\remoteFlightController.exe
+C:\Users\Zuza\Desktop\remoteFlightController\remoteFlightController\bin\Debug\remoteFlightController.pdb
+C:\Users\Zuza\Desktop\remoteFlightController\remoteFlightController\obj\Debug\remoteFlightController.csprojAssemblyReference.cache
+C:\Users\Zuza\Desktop\remoteFlightController\remoteFlightController\obj\Debug\remoteFlightController.frmFlightController.resources
+C:\Users\Zuza\Desktop\remoteFlightController\remoteFlightController\obj\Debug\remoteFlightController.Properties.Resources.resources
+C:\Users\Zuza\Desktop\remoteFlightController\remoteFlightController\obj\Debug\remoteFlightController.csproj.GenerateResource.cache
+C:\Users\Zuza\Desktop\remoteFlightController\remoteFlightController\obj\Debug\remoteFlightController.csproj.CoreCompileInputs.cache
+C:\Users\Zuza\Desktop\remoteFlightController\remoteFlightController\obj\Debug\remoteFlightController.exe
+C:\Users\Zuza\Desktop\remoteFlightController\remoteFlightController\obj\Debug\remoteFlightController.pdb
